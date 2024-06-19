@@ -3,7 +3,7 @@
     "name":"chicken_scales",
     "desc":"RTOS Version",
     "url":"https://yufisyh.github.io/chicken_scales_v1.3.bin",
-    "fw_version":"v1.2",
+    "fw_version":"v1.3",
     "hw_version":[
       "Beakbook_Scale",
       "Beakbook_Scale",
