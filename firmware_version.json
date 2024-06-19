@@ -1,0 +1,21 @@
+[
+  {
+    "name":"chicken_scales",
+    "desc":"RTOS Version",
+    "fw_version":"v1.2",
+    "hw_version":[
+      "Beakbook_Scale",
+      "Beakbook_Scale",
+      "Beakbook_Scale",
+      "Beakbook_Scale"
+    ]
+  },
+  {
+    "name":"CCF",
+    "desc":"RTOS Version",
+    "fw_version":"v2.0",
+    "hw_version":[
+      "Beakbook_Scale"
+    ]
+  }
+]
