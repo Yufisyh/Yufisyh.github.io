@@ -1,8 +1,8 @@
 {
   "name":"chicken_scales",
   "desc":"RTOS Version",
-  "url_sketch":"https://yufisyh.github.io/chicken_scale/firmware_v1.2 RTOS.bin",
-  "url_filesys":"https://yufisyh.github.io/chicken_scale/spiffs_v1.2 RTOS.bin",
+  "url_sketch":"https://yufisyh.github.io/chicken_scale/firmware_v1.2_RTOS.bin",
+  "url_filesys":"https://yufisyh.github.io/chicken_scale/spiffs_v1.2_RTOS.bin",
   "fw_version":"v1.2 RTOS",
   "hw_version":[
     "Beakbook_Scale",
